@@ -19,8 +19,6 @@ Case Analysis of Fullerton Risk and Business Strategy
   * [Organizational Structure and Incentive Mechanisms](#organizational-structure-and-incentive-mechanisms)
 - [CONCLUSION](#conclusion)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 # SUMMARY
 
