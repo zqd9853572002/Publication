@@ -1,4 +1,4 @@
-**Case Analysis of Fullerton Risk and Business Strategy**
+Case Analysis of Fullerton Risk and Business Strategy
 
 
 # SUMMARY
@@ -46,11 +46,10 @@ In more specific, Fullerton management team's major concern includes:
 
 Based on the fact reflected in the article, to compete in the competitive market, Mitra re-target the niche market segment of newly emerging middle-class consumers, who were traditionally being neglected by the banking system and by micro-finance institutions. To deal with the problem of potential high default rate, Mitra realized the importance of the data analytics and initiated a set of data based risk analytics framework.
 
-## target Customer and Data-Driven Analytics Strategy
+## Target Customer and Data-Driven Analytics Strategy
 
 We agreed with Mitra's judgment on both target customers and the implementation of a data-driven analytics strategy.
 
-    
 ### Niche Market Strategy
 
 We believe the niche market strategy could bring Fullerton a competitive advantage in a specific market.
@@ -63,7 +62,7 @@ Although newly-emerging middle-class consumers might lack good and enough credit
 
 The niche market is a very specific kind of customer, and the sales revenue might be affected in the first months or years. However, if Fullerton could pay attention and invest money in this market continuously, as the times going, Fullerton could nurture the relationship with customers and gain future benefit. Combined with the customized product and service, Fullerton could better serve customers and further enhance the relationship with the customer and solidify customer loyalty.
 
-    
+
 ### Data-Driven Analytics Strategy
 
 We believe the data-driven analytics strategy is the foundation of Fullerton's niche market strategy
@@ -76,12 +75,12 @@ As the niche market is mainly about newly-emerging middle-class consumers, it mi
 
 As mentioned above, Fullerton could provide customized products and services to solidify customer loyalty. This means the company will transfer the company target from the internal target, such as a variety of business metrics, to customer need, which also calls for a high-involvement organizational structure. From the business side, this may need the sales and marketing department to know more about what customers want at different levels. The foundation of providing the customized product and service should also be data-based, instead of any subjective bias in marketing and sales.
 
-  
+
 ## Risk Analytics Framework
 
 In general, we agree with Fullerton's setup of the risk analytics framework and the strategy. However, some details need to be addressed and improved.
 
-    
+
 ### Detailed Need to Be Improved
 
 We agreed that the credit granting decision should be aligned with the risk appetite. However, Fullerton needs the risk criteria and key risk indicator (KRI) to connect these two parts, instead of using risk appetite to guide business decisions directly. Also, the KRI could provide alerts and prediction in advance for events will bring bad effect to Fullerton.
@@ -94,19 +93,19 @@ When dealing with the customer data, we do not see there is no part in the artic
 
 We noticed Fullerton established an experienced data analytics team, but it seems the team is only composed by data scientist, that means no domain expert get involved. Although the team reports to CAO and further CRO, the team should get domain experts involved. The domain expert is a valuable person in dealing with practice and specific business.
 
-    
+
 ### Risk Analytics Framework
 
 When we look at the risk analytics framework in-depth, we could find Fullerton did well in Centralized Credit Underwriting, Application Scorecard and Behavior Scorecard and Risk-based Pricing in technique side and organizational structure side, but there are still some improvements available and further advanced ideas might be used in some point.
 
-      
+
 #### Centralized Credit Underwriting
 
 We agreed Fullerton change the credit underwriting process from a decentralized approach to a centralized model. With the centralized model, the credit approval actions are managed by a team independently from the sales/ marking part. This will give the team more independence in deciding the final decision, regardless of the business side. In this way, approval authority was governed through objectively and carefully designed criteria and could be periodically reviewed by specific team authority. With this method, CRO, rather than branch manager, regional head, or other business side person, would be responsible for the credit approval quality and then take some responsibilities in deciding the financial result of Fullerton.
 
 However, this method will also pose problems to Fullerton when providing with new flexible and tailored product and service. We would like to recommend Fullerton combined the human expertise and model result when dealing with the business that needs much more flexibility than the normal level or introduces a machine learning method in deciding the credit loan and price. From the company organizational structure side, because Fullerton has the Centralized Credit Underwriting process, the company could consider whether it should change its business organizational structure to network structure (matrix structure). With network structure, small business unit or autonomous unit, such as business branches in different areas, could loosely be jointed, but the company still control the core step, such as credit approval, rate, and condition determination. This structural change makes the autonomous units have more flexibility in business development and could provide the most effective service in different regions.
 
-      
+
 #### Application Scorecard and Behavior Scorecard
 
 We agreed to use a scorecard to decide the applicant's qualification. As the article mentioned, after the semi-automated tool was introduced, the average approval/ rejection is significantly reduced, and the biased judgment results are also reduced.
@@ -117,14 +116,14 @@ In evaluating the existing customers' behavioral scorecard, the analytics team u
 
 But in general, we believe this method is a good idea in preventing the default, instead of just waiting for the incident to happen and then solve the problem.
 
-      
+
 #### Risk-Based Pricing
 
 Fullerton adopts the Risk-based Pricing model in determining the appropriate interest rate and loan condition for individuals and businesses. As mentioned above, this method could set up the loan rate based on the specific risk posed by the customer's attributes, and this could also be useful in different segment markets or even in other industries, such as the UBI and telematics in the insurance industry.
 
 We agreed with Fullerton to use this method because it can accept or reject risk by identifying the applicant's critical attributes and assign an appropriate interest rate in the segmented market without human intervention. This method considers the potential risk as well as the competition in the niche market. This means Fullerton could combine its risk appetite and sales revenue target at the practical level, and help the company achieve its bottom line and top line targets at the same time.
 
-  
+
 ## Incentive and Implementation
 
 As a part of Fullerton's building in an analytics-driven organization, designing incentives and managing implementation is also a critical part. Fullerton sets up separate intensive plans for field agents and regional heads. The field agent's intensive plan is more focused on the loan volume and closing deal number, while the regional head's intensive plan is mainly about average margin. This intensive plan might contradict the Centralized Credit Underwriting process mentioned above. Considering Fullerton already has the independently Centralized Credit Underwriting process in the back office, and CRO takes the responsibility of loan quality as well as the partial financial result, Fullerton could let the field agents and regional heads mainly take responsibility for developing business. This might facilitate the whole business improvement. However, to avoid the silo culture within the different departments, Fullerton could introduce other methods in dealing with the potential conflicts between the sales team and the risk management team. For example, for the new business region or unique business, Fullerton could establish a special project group to deal with a special situation. This is a way that Fullerton could change its vertical structure to a horizontal structure for a specific project. In the project group, front office person (from the business side), back office person (from risk management side), and necessary data analytics team could work together, and their goal becomes providing the unique working method to solve the problem, that means all people in the group will jump out from previous judging criteria and abandon their own insisted concept in their heads previously in some degree. The benefit of this kind of project group is it knows everything about the customer, so the customer experience would be much better, which would be extremely important in dealing with the problem in the niche market or even smaller market.
@@ -140,8 +139,6 @@ Although we believe Fullerton choose the correct method to fulfill its long-term
 
 We separate our recommendations and suggestions into three parts: strategy, data collection and analysis, as well as organizational structure and incentive mechanisms.
 
-
-  
 ## Strategy
 
 As mentioned above, although Mitra was entrusted to design Fullerton's strategy to meet the overall goal, he should not do it only by himself. As we know, one person's strategy or vision could be another one's nightmare, if the strategy is set up by only one or few people, it could be very hard to be accepted by the whole company. To prepare the appropriate strategy and business plan that could be accepted by most of the people in the company, Mitra should let the employee be involved in the strategy-setting process. Also, obtaining the consensus within the management team would encourage the future implementation of the strategy.
@@ -150,7 +147,7 @@ As mentioned in the last part of Case Analysis, using data, analyzing data and n
 
 Fullerton is supervised by the Reserve Bank of India (RBI), which means its risk management structure needs to meet the specific requirements, although some specific criteria might be different from bank institutions. As mentioned above, Fullerton should set up risk criteria as well as the key risk indicator (KRI), instead of the risk appetite in general, to indicate how to perform in the daily work. The KRI could help Fullerton to drill down from the top risk to the specific case level, which could be easier to find the detailed questions. Also, Fullerton could set up KRI based on data to monitor potential risk event and develop methods to prevent loss/ risk (including human intervention method) in advance.
 
-  
+
 ## Data Collection and Analysis
 
 Considering Fullerton re-targets its market to the middle-class consumer, and this group is lacking a good and enough credit history from the official bureau, Fullerton could obtain data from other sources, such as from data brokers. Data brokers collect information from online and offline sources and combine them together, and then sell to the company in need. Fullerton could use a data broker to collect the required information for loan approval, such as data in social media, web browsing history, online/ offline purchase history, driver's license and motor vehicle records, marriage status, travel history, insurance purchasing history, etc. Through data mining, Fullerton could discover relationships between the information and related risk. However, the highly proceed data is expensive, buying this kind of data from a data broker might generate an adverse effect on Fullerton's financial condition, therefore, Fullerton should trade-off between buying proceed data and buying raw data and conduct ETL by itself, also, Fullerton should conduct related market and financial research in selecting appropriate data broker and purchasing. As the collected data become more and comprehensive, Fullerton could consider to build up its own independent social credit score system and it could connect with different data sources. However, Fullerton should consider the problem of cost, including human resource cost and financial cost, in accessing different data resources and necessarily internal effort and improvement.
