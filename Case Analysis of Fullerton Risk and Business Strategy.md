@@ -1,5 +1,26 @@
 Case Analysis of Fullerton Risk and Business Strategy
 
+- [SUMMARY](#summary)
+- [IMPORTANT ISSUE](#important-issue)
+- [CASE ANALYSIS](#case-analysis)
+  * [Target Customer and Data-Driven Analytics Strategy](#target-customer-and-data-driven-analytics-strategy)
+    + [Niche Market Strategy](#niche-market-strategy)
+    + [Data-Driven Analytics Strategy](#data-driven-analytics-strategy)
+  * [Risk Analytics Framework](#risk-analytics-framework)
+    + [Detailed Need to Be Improved](#detailed-need-to-be-improved)
+    + [Risk Analytics Framework](#risk-analytics-framework-1)
+      - [Centralized Credit Underwriting](#centralized-credit-underwriting)
+      - [Application Scorecard and Behavior Scorecard](#application-scorecard-and-behavior-scorecard)
+      - [Risk-Based Pricing](#risk-based-pricing)
+  * [Incentive and Implementation](#incentive-and-implementation)
+- [RECOMMENDATION](#recommendation)
+  * [Strategy](#strategy)
+  * [Data Collection and Analysis](#data-collection-and-analysis)
+  * [Organizational Structure and Incentive Mechanisms](#organizational-structure-and-incentive-mechanisms)
+- [CONCLUSION](#conclusion)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 # SUMMARY
 
