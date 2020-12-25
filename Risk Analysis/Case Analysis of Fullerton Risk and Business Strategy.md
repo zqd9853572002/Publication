@@ -1,4 +1,4 @@
-Case Analysis of Fullerton Risk and Business Strategy.md
+# Case Analysis of Fullerton Risk and Business Strategy
 
 - [SUMMARY](#summary)
 - [IMPORTANT ISSUE](#important-issue)
