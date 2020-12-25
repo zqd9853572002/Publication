@@ -1,5 +1,7 @@
 # Case Analysis of Fullerton Risk and Business Strategy
 
+The case analysis is based on the case provided at [here](https://store.hbr.org/product/fullerton-risk-analytics-and-business-strategy/IMB587)
+
 - [SUMMARY](#summary)
 - [IMPORTANT ISSUE](#important-issue)
 - [CASE ANALYSIS](#case-analysis)
